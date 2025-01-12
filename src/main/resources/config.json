@@ -1,0 +1,6 @@
+{
+  "url": "https://catchylabs-webclient.testinium.com/signIn",
+  "username": "testuser",
+  "password": "password",
+  "chromedriverPath": "C:\\webdriver\\chromedriver-win64\\chromedriver.exe"
+}
